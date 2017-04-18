@@ -1,0 +1,9 @@
+.\obj\lab11.o: source\lab11.c
+.\obj\lab11.o: .\include\lpc17xx.h
+.\obj\lab11.o: .\include\core_cm3.h
+.\obj\lab11.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\lab11.o: .\include\core_cmInstr.h
+.\obj\lab11.o: .\include\core_cmFunc.h
+.\obj\lab11.o: .\include\system_LPC17xx.h
+.\obj\lab11.o: .\include\type.h
+.\obj\lab11.o: .\include\pwm.h

@@ -1,0 +1,9 @@
+.\obj\pwm.o: source\pwm.c
+.\obj\pwm.o: .\include\lpc17xx.h
+.\obj\pwm.o: .\include\core_cm3.h
+.\obj\pwm.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\pwm.o: .\include\core_cmInstr.h
+.\obj\pwm.o: .\include\core_cmFunc.h
+.\obj\pwm.o: .\include\system_LPC17xx.h
+.\obj\pwm.o: .\include\type.h
+.\obj\pwm.o: .\include\pwm.h

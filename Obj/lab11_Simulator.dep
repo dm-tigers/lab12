@@ -1,0 +1,27 @@
+Dependencies for Project 'lab11', Target 'Simulator': (DO NOT MODIFY !)
+F (.\startup\startup_LPC17xx.s)(0x4F58E14C)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\NXP\LPC17xx--pd "LPC175x_6x SETA 1"--list .\lst\startup_lpc17xx.lst --xref -o .\obj\startup_lpc17xx.o --depend .\obj\startup_lpc17xx.d)
+F (.\startup\system_LPC17xx.c)(0x4F91432C)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I.\include-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\NXP\LPC17xx-DLPC175x_6x-o .\obj\system_lpc17xx.o --omf_browse .\obj\system_lpc17xx.crf --depend .\obj\system_lpc17xx.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x541A463A)
+I (.\include\LPC17xx.h)(0x52582FDC)
+I (.\include\core_cm3.h)(0x52582FE2)
+I (.\include\core_cmInstr.h)(0x52582FEA)
+I (.\include\core_cmFunc.h)(0x52582FF0)
+I (.\include\system_LPC17xx.h)(0x52582FF8)
+F (.\source\pwm.c)(0x536CD16A)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I.\include-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\NXP\LPC17xx-DLPC175x_6x-o .\obj\pwm.o --omf_browse .\obj\pwm.crf --depend .\obj\pwm.d)
+I (.\include\lpc17xx.h)(0x52582FDC)
+I (.\include\core_cm3.h)(0x52582FE2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x541A463A)
+I (.\include\core_cmInstr.h)(0x52582FEA)
+I (.\include\core_cmFunc.h)(0x52582FF0)
+I (.\include\system_LPC17xx.h)(0x52582FF8)
+I (.\include\type.h)(0x536A4472)
+I (.\include\pwm.h)(0x523B2A60)
+F (.\source\lab11.c)(0x536CD1B6)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I.\include-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\NXP\LPC17xx-DLPC175x_6x-o .\obj\lab11.o --omf_browse .\obj\lab11.crf --depend .\obj\lab11.d)
+I (.\include\lpc17xx.h)(0x52582FDC)
+I (.\include\core_cm3.h)(0x52582FE2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x541A463A)
+I (.\include\core_cmInstr.h)(0x52582FEA)
+I (.\include\core_cmFunc.h)(0x52582FF0)
+I (.\include\system_LPC17xx.h)(0x52582FF8)
+I (.\include\type.h)(0x536A4472)
+I (.\include\pwm.h)(0x523B2A60)

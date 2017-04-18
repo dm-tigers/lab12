@@ -1,0 +1,9 @@
+.\obj\pwmtest.o: source\pwmtest.c
+.\obj\pwmtest.o: .\include\lpc17xx.h
+.\obj\pwmtest.o: .\include\core_cm3.h
+.\obj\pwmtest.o: d:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\pwmtest.o: .\include\core_cmInstr.h
+.\obj\pwmtest.o: .\include\core_cmFunc.h
+.\obj\pwmtest.o: .\include\system_LPC17xx.h
+.\obj\pwmtest.o: .\include\type.h
+.\obj\pwmtest.o: source\pwm.h

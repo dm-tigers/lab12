@@ -1,0 +1,9 @@
+--cpu Cortex-M3
+".\obj\startup_lpc17xx.o"
+".\obj\system_lpc17xx.o"
+".\obj\pwm.o"
+".\obj\lab11.o"
+--strict --scatter ".\Obj\lab10.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Lst\lab10.map" -o .\Obj\lab10.axf
