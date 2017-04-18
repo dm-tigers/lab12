@@ -1,0 +1,27 @@
+Dependencies for Project 'lab10', Target 'LPC1768 Flash': (DO NOT MODIFY !)
+F (.\startup\startup_LPC17xx.s)(0x58EFE3B5)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_LPC1768_Flash-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.3.0\Device\Include--pd "__UVISION_VERSION SETA 523" --pd "_RTE_ SETA 1" --pd "LPC175x_6x SETA 1"--list .\startup_lpc17xx.lst --xref -o .\startup_lpc17xx.o --depend .\startup_lpc17xx.d)
+F (.\startup\system_LPC17xx.c)(0x58EFE3B5)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I .\include-I.\RTE\_LPC1768_Flash-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.3.0\Device\Include-D__UVISION_VERSION="523" -D_RTE_ -DLPC175x_6x-o .\system_lpc17xx.o --depend .\system_lpc17xx.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F6AF78)
+I (.\include\LPC17xx.h)(0x58EFE3B4)
+I (.\include\core_cm3.h)(0x58EFE3B4)
+I (.\include\core_cmInstr.h)(0x58EFE3B4)
+I (.\include\core_cmFunc.h)(0x58EFE3B4)
+I (.\include\system_LPC17xx.h)(0x58EFE3B4)
+F (.\source\lab10.c)(0x58EFE3B5)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I .\include-I.\RTE\_LPC1768_Flash-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.3.0\Device\Include-D__UVISION_VERSION="523" -D_RTE_ -DLPC175x_6x-o .\lab10.o --depend .\lab10.d)
+I (.\include\lpc17xx.h)(0x58EFE3B4)
+I (.\include\core_cm3.h)(0x58EFE3B4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F6AF78)
+I (.\include\core_cmInstr.h)(0x58EFE3B4)
+I (.\include\core_cmFunc.h)(0x58EFE3B4)
+I (.\include\system_LPC17xx.h)(0x58EFE3B4)
+I (.\include\type.h)(0x58EFE3B4)
+I (.\include\timer.h)(0x58EFE3B4)
+F (.\source\timer.c)(0x58F6667F)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I .\include-I.\RTE\_LPC1768_Flash-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.3.0\Device\Include-D__UVISION_VERSION="523" -D_RTE_ -DLPC175x_6x-o .\timer.o --depend .\timer.d)
+I (.\include\lpc17xx.h)(0x58EFE3B4)
+I (.\include\core_cm3.h)(0x58EFE3B4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F6AF78)
+I (.\include\core_cmInstr.h)(0x58EFE3B4)
+I (.\include\core_cmFunc.h)(0x58EFE3B4)
+I (.\include\system_LPC17xx.h)(0x58EFE3B4)
+I (.\include\type.h)(0x58EFE3B4)
+I (.\include\timer.h)(0x58EFE3B4)

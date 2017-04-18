@@ -1,0 +1,9 @@
+.\lab10.o: source\lab10.c
+.\lab10.o: .\include\lpc17xx.h
+.\lab10.o: .\include\core_cm3.h
+.\lab10.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\lab10.o: .\include\core_cmInstr.h
+.\lab10.o: .\include\core_cmFunc.h
+.\lab10.o: .\include\system_LPC17xx.h
+.\lab10.o: .\include\type.h
+.\lab10.o: .\include\timer.h

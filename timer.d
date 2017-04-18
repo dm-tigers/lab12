@@ -1,0 +1,9 @@
+.\timer.o: source\timer.c
+.\timer.o: .\include\lpc17xx.h
+.\timer.o: .\include\core_cm3.h
+.\timer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\timer.o: .\include\core_cmInstr.h
+.\timer.o: .\include\core_cmFunc.h
+.\timer.o: .\include\system_LPC17xx.h
+.\timer.o: .\include\type.h
+.\timer.o: .\include\timer.h

@@ -1,0 +1,9 @@
+--cpu Cortex-M3
+".\ram\startup_lpc17xx.o"
+".\ram\system_lpc17xx.o"
+".\ram\lab10.o"
+".\ram\timer.o"
+--library_type=microlib --strict --scatter ".\RAM\Blinky.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\RAM\Blinky.map" -o .\RAM\Blinky.axf

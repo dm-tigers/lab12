@@ -1,0 +1,27 @@
+Dependencies for Project 'lab10', Target 'Simulator': (DO NOT MODIFY !)
+F (.\startup\startup_LPC17xx.s)(0x4F58EF5C)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I C:\Keil_v5\ARM\Inc\NXP\LPC17xx--list .\lst\startup_lpc17xx.lst --xref -o .\obj\startup_lpc17xx.o --depend .\obj\startup_lpc17xx.d)
+F (.\startup\system_LPC17xx.c)(0x4F91513C)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I.\include-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I C:\Keil_v5\ARM\Inc\NXP\LPC17xx-DLPC1700 -o .\obj\system_lpc17xx.o --omf_browse .\obj\system_lpc17xx.crf --depend .\obj\system_lpc17xx.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FE894E)
+I (.\include\LPC17xx.h)(0x52583DEB)
+I (.\include\core_cm3.h)(0x52583DF2)
+I (.\include\core_cmInstr.h)(0x52583DF9)
+I (.\include\core_cmFunc.h)(0x52583E00)
+I (.\include\system_LPC17xx.h)(0x52583E07)
+F (.\source\lab10.c)(0x536A65FE)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I.\include-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I C:\Keil_v5\ARM\Inc\NXP\LPC17xx-DLPC1700 -o .\obj\lab10.o --omf_browse .\obj\lab10.crf --depend .\obj\lab10.d)
+I (.\include\lpc17xx.h)(0x52583DEB)
+I (.\include\core_cm3.h)(0x52583DF2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FE894E)
+I (.\include\core_cmInstr.h)(0x52583DF9)
+I (.\include\core_cmFunc.h)(0x52583E00)
+I (.\include\system_LPC17xx.h)(0x52583E07)
+I (.\include\type.h)(0x536A5280)
+I (.\include\timer.h)(0x536A6344)
+F (.\source\timer.c)(0x536A6545)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I.\include-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I C:\Keil_v5\ARM\Inc\NXP\LPC17xx-DLPC1700 -o .\obj\timer.o --omf_browse .\obj\timer.crf --depend .\obj\timer.d)
+I (.\include\lpc17xx.h)(0x52583DEB)
+I (.\include\core_cm3.h)(0x52583DF2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FE894E)
+I (.\include\core_cmInstr.h)(0x52583DF9)
+I (.\include\core_cmFunc.h)(0x52583E00)
+I (.\include\system_LPC17xx.h)(0x52583E07)
+I (.\include\type.h)(0x536A5280)
+I (.\include\timer.h)(0x536A6344)
